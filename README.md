@@ -1,6 +1,6 @@
 # Lynx Download Manager for Mac: releases
 
-Signed builds of [Lynx Download Manager](https://www.lynxdownloadmanager.com/?utm_source=github&utm_medium=directory&utm_campaign=directories-2026q4), the download manager for Macs with Apple silicon. The app's updater and the Download button on the website fetch their files from this repository's [Releases](https://github.com/sayemmotionart-jpg/lynx-releases/releases). There is no source code here.
+Signed builds of [Lynx Download Manager](https://www.lynxdownloadmanager.com/?utm_source=github&utm_medium=directory&utm_campaign=directories-2026q4), the download manager for Macs with Apple silicon. The app's updater and the Download button on the website fetch their files from this repository's [Releases](https://github.com/Slowrox/lynx-releases/releases). There is no source code here.
 
 ![A download in Lynx and in the MacBook notch (from the demo film on the website)](media/lynx-notch.gif)
 
