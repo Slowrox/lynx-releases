@@ -17,8 +17,7 @@ Free to use, with limits listed on the [pricing page](https://www.lynxdownloadma
 
 ## Requirements
 
-- A Mac with Apple silicon (M1 or later) and macOS 11 Big Sur or later.
-- Lynx Notch needs macOS 14 Sonoma or later.
+- A Mac with Apple silicon (M1 or later) and macOS 14 Sonoma or later.
 - No Intel build yet: [join the wait-list](https://www.lynxdownloadmanager.com/download).
 
 ## Signed and notarized by Apple
